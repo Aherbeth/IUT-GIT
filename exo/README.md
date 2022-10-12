@@ -20,6 +20,7 @@ Vous pouvez vous organiser comme bon vous semble temps que ces consignes sont re
 - Votres/vos collègues auront spécifiquement validé chaque pull request
 - les demandes de mofication, améliorations et correction se feront dans les Pull Request
 - Si des bugs sont découverts à posteriori du merge d'une pull request, ils seront remontés dans des issues
+- les signatures et références seront en anglais et auront du sens
 
 Tout en respectant ces règles, vous ferez le même exercice que le bash mais en Javascript.
 Dans un premier temps uniquement en console (console de navigateur ou éventuellement console nodejs).
