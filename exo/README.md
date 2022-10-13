@@ -25,4 +25,4 @@ Vous pouvez vous organiser comme bon vous semble temps que ces consignes sont re
 Tout en respectant ces règles, vous ferez le même exercice que le bash mais en Javascript.
 Dans un premier temps uniquement en console (console de navigateur ou éventuellement console nodejs).
 Puis, dans un second temps, dans une interface HTML/CSS réactive.
-Afin d'éviter tout régression, vous ajouterez des tests unitaires
+Afin d'éviter tout régression, vous ajouterez des tests unitaires (jest ou autres)
