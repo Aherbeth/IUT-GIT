@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: checkout
-      - uses: actions/checkout@v3
+      - name: "checkout"
+        uses: actions/checkout@v3
         with:
           ref: master
 
-      - name: launch test
+      - name: "launch test"
         run: |
           make test
