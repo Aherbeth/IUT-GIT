@@ -16,5 +16,5 @@ jobs:
           ref: main
 
       - name: "launch test"
-        run: |
-          make test
+        shell: bash
+        run: make test
