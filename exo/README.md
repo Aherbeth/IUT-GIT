@@ -26,3 +26,4 @@ Tout en respectant ces règles, vous ferez le même exercice que le bash mais en
 Dans un premier temps uniquement en console (console de navigateur ou éventuellement console nodejs).
 Puis, dans un second temps, dans une interface HTML/CSS réactive.
 Afin d'éviter tout régression, vous ajouterez des tests unitaires (jest ou autres)
+Idéalement vous aurez le temps d'ajouter une action GitHub qui lancera vos tests pour chaque commit/pull request.
