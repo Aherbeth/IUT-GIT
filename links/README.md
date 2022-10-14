@@ -34,6 +34,7 @@
 ## Tools
 
 - [GitHub CLI documentation](https://cli.github.com/manual/)
+- [GitHub action events](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows)
 
 ### GUI
 

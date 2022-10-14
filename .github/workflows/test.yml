@@ -1,0 +1,20 @@
+name: "Test the code"
+on:
+  push: ~
+  pull_request: ~
+  workflow_dispatch: ~
+
+jobs:
+  launch-test:
+    name: "launch tests"
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: "checkout"
+        uses: actions/checkout@v3
+        with:
+          ref: main
+
+      - name: "launch test"
+        shell: bash
+        run: echo "les tests c'est cool"
