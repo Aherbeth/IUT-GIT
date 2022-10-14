@@ -18,6 +18,7 @@
 
 - [Diagram Git Flow](https://nvie.com/files/Git-branching-model.pdf)
 - [GitHub Flow](https://githubflow.github.io/)
+- [conventionnal commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ### Hooks
 
