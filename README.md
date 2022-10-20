@@ -6,3 +6,5 @@ Vous trouverez :
 
 - [L'exercice lié à git](./exo/README.md)
 - [Une liste de liens utiles](./links/README.md)
+
+// un commentaire hyper utile
