@@ -27,3 +27,7 @@ Dans un premier temps uniquement en console (console de navigateur ou éventuell
 Puis, dans un second temps, dans une interface HTML/CSS réactive.
 Afin d'éviter tout régression, vous ajouterez des tests unitaires (jest ou autres)
 Idéalement vous aurez le temps d'ajouter une action GitHub qui lancera vos tests pour chaque push/pull request
+
+Vous m'ajouterez-donc à votre repo GitHub si ce n'est pas déjà fait et me préciserez quand vous aurez terminé, par mail (alexandre@marmelab.com), la composition de votre groupe.
+
+Ce travail est à rendre pour le 4 novembre dernier délai.
