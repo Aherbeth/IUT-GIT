@@ -32,6 +32,10 @@
 
 - [GHA documentation](https://docs.github.com/en/actions)
 
+### GitHub pages
+
+- [GitHub Pages](https://pages.github.com/)
+
 ## Tools
 
 - [GitHub CLI documentation](https://cli.github.com/manual/)

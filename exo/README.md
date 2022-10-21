@@ -26,7 +26,8 @@ Tout en respectant ces règles, vous ferez le même exercice que le bash mais en
 Dans un premier temps uniquement en console (console de navigateur ou éventuellement console nodejs).
 Puis, dans un second temps, dans une interface HTML/CSS réactive.
 Afin d'éviter tout régression, vous ajouterez des tests unitaires (jest ou autres)
-Idéalement vous aurez le temps d'ajouter une action GitHub qui lancera vos tests pour chaque push/pull request
+Vous ajouterez une action GitHub qui lancera vos tests pour chaque push/pull request
+Enfin et pour (vraiment) terminer, vous ajouterez une une action de déploiement vers github pages.
 
 Vous m'ajouterez-donc à votre repo GitHub si ce n'est pas déjà fait et me préciserez quand vous aurez terminé, par mail (alexandre@marmelab.com), la composition de votre groupe.
 
